@@ -121,7 +121,7 @@ The backend is configured to allow CORS for development purposes by using the `c
 app.use(cors({
   origin: 'http://localhost:3000',
 }));
-
+```
 
 ## License
 
